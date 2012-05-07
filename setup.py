@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.community.ChefClient'
 VERSION = '0.2'
 AUTHOR = 'Matt Ray'
-LICENSE = 'GPLv2'
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.ChefClient']
 INSTALL_REQUIRES = []
